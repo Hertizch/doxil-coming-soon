@@ -1,6 +1,6 @@
 body {
   font-family: 'Karla', sans-serif;
-  background-image: url("../images/van.png");
+/*#  background-image: url("../images/van.png"); */
   -webkit-backdrop-filter: brightness(0.5) blur(8px);
   backdrop-filter: brightness(0.5) blur(8px);
   background-size: cover;
