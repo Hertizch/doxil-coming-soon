@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1226.88 489.54">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #494948;
+      }
+
+      .cls-5 {
+        letter-spacing: .02em;
+      }
+
+      .cls-4 {
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-4, .cls-6 {
+        font-size: 288px;
+      }
+
+      .cls-7 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-12 {
+        font-family: Roboto-Medium, Roboto;
+        font-size: 155.34px;
+        font-weight: 500;
+      }
+
+      .cls-12, .cls-6 {
+        fill: #84817a;
+      }
+
+      .cls-6 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-6" transform="translate(16.18 411.18)"><tspan class="cls-2" x="0" y="0">V</tspan><tspan class="cls-10" x="158.32" y="0">A</tspan><tspan class="cls-7" x="343.17" y="0">R</tspan><tspan x="516.79" y="0">E</tspan></text>
+    <text class="cls-4" transform="translate(786.04 411.49)"><tspan class="cls-5" x="0" y="0">A</tspan><tspan x="199.63" y="0">X</tspan></text>
+    <rect class="cls-3" x="732.96" y="156.93" width="43.2" height="321.12"/>
+    <polyline class="cls-3" points="0 152.61 1164.96 152.61 1164.96 187.17 12.96 187.17"/>
+    <text class="cls-12" transform="translate(610.48 132.89) scale(.91 1)"><tspan class="cls-14" x="0" y="0">I</tspan><tspan class="cls-8" x="41.15" y="0">H</tspan><tspan class="cls-1" x="149.39" y="0">R</tspan><tspan class="cls-9" x="242.99" y="0">S</tspan><tspan class="cls-11" x="335.16" y="0">T</tspan><tspan class="cls-13" x="413.47" y="0">A</tspan><tspan x="515.43" y="0">D</tspan></text>
+    <rect class="cls-3" x="1188" y="17.25" width="34.56" height="43.2" transform="translate(1244.13 -1166.43) rotate(90)"/>
+    <rect class="cls-3" x="1036.08" y="221.01" width="338.4" height="43.2" transform="translate(1447.89 -962.67) rotate(90)"/>
+  </g>
+</svg>
