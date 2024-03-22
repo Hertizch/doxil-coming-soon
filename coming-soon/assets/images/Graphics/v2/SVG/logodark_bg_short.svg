@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 229.83 268.72">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #ccc;
+        font-family: Roboto-Bold, Roboto;
+        font-size: 97px;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: #d9505a;
+        font-family: Roboto-Black, Roboto;
+        font-size: 117px;
+        font-weight: 800;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-3" transform="translate(0 82.98)"><tspan class="cls-8" x="0" y="0">I</tspan><tspan class="cls-6" x="27.05" y="0">H</tspan><tspan class="cls-2" x="94.83" y="0">R</tspan></text>
+    <text class="cls-5" transform="translate(8.33 169.74)"><tspan class="cls-1" x="0" y="0">V</tspan><tspan class="cls-7" x="76.39" y="0">R</tspan><tspan x="150.95" y="0">E</tspan></text>
+    <text class="cls-3" transform="translate(80.9 242.44)"><tspan class="cls-4" x="0" y="0">T</tspan><tspan class="cls-9" x="60.77" y="0">X</tspan><tspan x="120.65" y="0">I</tspan></text>
+  </g>
+</svg>
