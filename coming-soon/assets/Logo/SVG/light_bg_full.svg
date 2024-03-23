@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 464.9 163.33">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #d9505a;
+      }
+
+      .cls-5 {
+        letter-spacing: -.14em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-7 {
+        fill: #383b3b;
+        font-family: Roboto-Bold, Roboto;
+        font-size: 67px;
+        font-weight: 700;
+      }
+
+      .cls-8 {
+        font-family: Roboto-Black, Roboto;
+        font-size: 105px;
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: #333;
+      }
+
+      .cls-15 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.14em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.05em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-8" transform="translate(5.45 134.88)"><tspan class="cls-1" x="0" y="0">V</tspan><tspan class="cls-2" x="57.91" y="0">A</tspan><tspan class="cls-4" x="125.09" y="0">R</tspan><tspan class="cls-3" x="188.43" y="0">E</tspan><tspan class="cls-12" x="243.91" y="0">T</tspan><tspan class="cls-14" x="295.87" y="0">A</tspan><tspan class="cls-11" x="366.04" y="0">X</tspan><tspan class="cls-13" x="427.77" y="0">I</tspan></text>
+    <text class="cls-7" transform="translate(0 57.32)"><tspan class="cls-15" x="0" y="0">I</tspan><tspan class="cls-16" x="16.03" y="0">H</tspan><tspan class="cls-10" x="60.18" y="0">R</tspan><tspan class="cls-17" x="98.69" y="0">S</tspan><tspan class="cls-5" x="136.51" y="0">T</tspan><tspan class="cls-9" x="168.39" y="0">A</tspan><tspan class="cls-6" x="210.21" y="0">D</tspan></text>
+  </g>
+</svg>
